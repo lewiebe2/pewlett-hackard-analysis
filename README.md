@@ -45,4 +45,4 @@ There are not enough retirement-ready employees in the departments to mentor the
 
 ![](resources/mentorship_eligibility_titles.PNG)
 
-Pewlett-Hackard should immediately consider expanding the age range eligibility for the mentorship program, or using total years of employment instead of age to determine eligibility. the current mentorship program will not meet the company's needs; the enormous disparity in retiring employees and mentorship-eligible employees may necessitate the establishment of an alternative mentorship or professional development program.
+Pewlett-Hackard should immediately consider expanding the age range eligibility for the mentorship program, or using total years of employment instead of age to determine eligibility. The current mentorship program will not meet the company's needs; the enormous disparity in retiring employees and mentorship-eligible employees may necessitate the establishment of an alternative mentorship or professional development program.
